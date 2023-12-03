@@ -254,6 +254,8 @@ The following topics were explored:
 
 All source code is available under the `projects` directory.
 
+Access to source code repositories available at request.
+
 ## Sources
 
 * https://en.wikipedia.org/wiki/Graphics_pipeline
