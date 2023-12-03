@@ -160,7 +160,7 @@ Even with chunking, the performance starts to drop at high render distances.
 
 <img src="images/performance_drop.png" alt="Performance Drop" width="800"/>
 
-As such, the search for decreases CPU to GPU communication begins, starting with instancing.
+As such, the search for decreasing CPU to GPU communication begins, starting with instancing.
 
 ### Instancing
 
